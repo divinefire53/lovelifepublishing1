@@ -112,7 +112,7 @@ main {
 }
 
 #contact .contact-email-link {
-		color: #666600;
+		color: #D11D95;
 		text-decoration: none;
 }
 
@@ -121,7 +121,7 @@ main {
 footer p {
 		font-size: 1em;
 		text-align: center;
-		color: #000;
+		color: #ffe6f3;
 		padding: 0 1em;
 		background-color: #ffe6f3;
 		clear: left;
@@ -231,4 +231,3 @@ footer p {
 	}
 	
 }
-
