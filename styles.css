@@ -66,6 +66,22 @@ nav li a {
 		text-decoration: none;
 }
 
+a:link {
+  color: #C30693;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #C30693;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #D11D95;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 /*Show mobile class, hide tablet-desktop class*/
 .mobile {
 		display: block;
@@ -126,21 +142,7 @@ footer p {
 		background-color: #ffe6f3;
 		clear: left;
 }
-a:link {
-  color: #C30693;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: #379A3D;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: #D11D95;
-  background-color: transparent;
-  text-decoration: underline;
-}
+
 
 /*media query for tablet viewport*/
 @media screen and (min-width:630px), print {
